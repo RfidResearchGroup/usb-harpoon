@@ -16,9 +16,4 @@ If you want more tools or safe demos, check `TASK-NOTES.md` (coming soon) or req
 
 ---
 
-## Contact
-**Project Owner:** RFID Research Group (RRG)  
-**Product Engineer:** Ambrose
-📧 **Technical Contact:** ambrose@rfidresearchgroup.com
-
 © 2025 RFID Research Group — For authorized research only.
